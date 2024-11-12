@@ -11,5 +11,9 @@
 
 # practical 3
 <h2>WAP to create a pyramid of the character  "*" and a reverse pyramid  </h2>
-<img src="https://github.com/user-attachments/assets/36f39307-effd-4351-a39f-ef2846c2f5ea">
+<img src="https://github.com/user-attachments/assets/d450d8fb-3437-4f27-ac43-27c1bf4f6648">
+
+# practical 4
+<h2>WAP to find the roots of quadratic equation</h2>
+<img src="https://github.com/user-attachments/assets/21cc524e-89fb-45a7-8d2b-79e0e8c07aea">
 
