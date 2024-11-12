@@ -15,8 +15,12 @@
 
 # practical 4
 <h2>WAP that accepts a character and performs the following: 
+  
 a. print whether the character is a letter or numeric digit or a special character 
-b. if the character is a letter , print whether the letter is uppercase or lowercase 
-c. if the character is a numeric digit ,prints its name intext (for ex:-if input is 9,the output is NINE </h2>
+
+b. if the character is a letter , print whether the letter is uppercase or lowercase
+
+c. if the character is a numeric digit ,prints its name intext (for ex:-if input is 9,the output is NINE
+</h2>
 <img src="https://github.com/user-attachments/assets/ae7a0ff4-be86-49ba-a1ff-1ac1f70be418">
 
