@@ -29,3 +29,7 @@ c. if the character is a numeric digit ,prints its name intext (for ex:-if input
 </h2>
 <img src="https://github.com/user-attachments/assets/ae7a0ff4-be86-49ba-a1ff-1ac1f70be418">
 
+# practical 5
+<h2>WAP to swap the first n characters of two strings</h2>
+<img src="https://github.com/user-attachments/assets/c1a5ade9-4c35-4438-8025-98f88ad4d37c">
+
