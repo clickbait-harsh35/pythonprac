@@ -20,6 +20,7 @@
 # practical 4
 <h2>WAP that accepts a character and performs the following: 
   
+
 a. print whether the character is a letter or numeric digit or a special character 
 
 b. if the character is a letter , print whether the letter is uppercase or lowercase
