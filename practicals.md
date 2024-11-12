@@ -4,9 +4,13 @@
 
 # practical 2
 <h2>WAP to accept a number 'n' and 
+  
 1. Check if n is prime 
+
 2. Generate all prime numbers till 'n' 
-3. Generate first 'n' prime numbers </h2>
+
+3. Generate first 'n' prime numbers
+    </h2>
 <img src="https://github.com/user-attachments/assets/4741c0c1-ceac-4a45-b032-e5e1e9e2192a">
 
 # practical 3
