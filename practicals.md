@@ -33,3 +33,8 @@ c. if the character is a numeric digit ,prints its name intext (for ex:-if input
 <h2>WAP to swap the first n characters of two strings</h2>
 <img src="https://github.com/user-attachments/assets/c1a5ade9-4c35-4438-8025-98f88ad4d37c">
 
+# practical 6
+<h2>Write a function that prints a dictionary where the keys are numbers between 1 and 5 
+andthe values are cubes of the keys.</h2>
+![Screenshot_20241113_093056_Chrome](https://github.com/user-attachments/assets/d2189463-9506-479c-9bc6-bbf8aad2a396)
+
